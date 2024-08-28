@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\full stack\\backend\\tasks\\MVCdemo\\MVCdemo\\wwwroot\\bootstrap\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\full stack\\backend\\tasks\\MVCdemo\\MVCdemo\\wwwroot\\bootstrap\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\bootstrap\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.MVCdemo.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.MVCdemo.props",
+      "PackagePath": "build\\MVCdemo.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.MVCdemo.props",
+      "PackagePath": "buildMultiTargeting\\MVCdemo.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.MVCdemo.props",
+      "PackagePath": "buildTransitive\\MVCdemo.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

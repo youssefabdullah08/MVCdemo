@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "Hash": "P6f1JphAZgU8IwuAp4myihBWJhoa/CHzpIxRv8Ju/Y0=",
+  "Source": "MVCdemo",
+  "BasePath": "_content/MVCdemo",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "MVCdemo\\wwwroot",
+      "Source": "MVCdemo",
+      "ContentRoot": "D:\\full stack\\backend\\tasks\\MVCdemo\\MVCdemo\\wwwroot\\",
+      "BasePath": "_content/MVCdemo",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\full stack\\backend\\tasks\\MVCdemo\\MVCdemo\\wwwroot\\bootstrap\\css\\bootstrap.min.css",
+      "SourceId": "MVCdemo",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\full stack\\backend\\tasks\\MVCdemo\\MVCdemo\\wwwroot\\",
+      "BasePath": "_content/MVCdemo",
+      "RelativePath": "bootstrap/css/bootstrap.min.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\bootstrap\\css\\bootstrap.min.css"
+    },
+    {
+      "Identity": "D:\\full stack\\backend\\tasks\\MVCdemo\\MVCdemo\\wwwroot\\bootstrap\\js\\bootstrap.bundle.min.js",
+      "SourceId": "MVCdemo",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\full stack\\backend\\tasks\\MVCdemo\\MVCdemo\\wwwroot\\",
+      "BasePath": "_content/MVCdemo",
+      "RelativePath": "bootstrap/js/bootstrap.bundle.min.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\bootstrap\\js\\bootstrap.bundle.min.js"
+    }
+  ]
+}
